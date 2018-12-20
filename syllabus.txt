@@ -1,0 +1,171 @@
+        w0 Programming for the Web with JavaScript  Getting Started
+    01 Welcome to Programming for the Web with JavaScript
+Welcome from the SD4x Team
+Welcome Note from Prof. Chris Murphy and Prof. Swapneel Sheth
+Syllabus
+Student Code of Conduct
+    Introduce Yourself
+Introduce Yourself
+    Professional Certificate - Verification Required
+Professional Certificate in CS Essentials for Software Development
+    Assessing and Submitting Assignments
+Submitting Assignments using Codio
+    Pre-Course Survey
+Pre-Course Survey
+
+        w1 Week 1 Web Programming Basics
+    11 Basics of the World Wide Web
+Quiz  This content is graded
+Introduction to Week 1
+Introduction to the Internet and the World Wide Web - Video 1.1
+Quiz 1.1
+How a Web Browser Works - Video 1.2
+Quiz 1.2
+    12 Developing Web Pages with HTML
+Quiz  This content is graded
+Introduction to HTML - Video 1.3
+Quiz 1.3
+Basic HTML - Video 1.4
+Quiz 1.4
+HTML Formatting and Attributes - Video 1.5
+Quiz 1.5
+Introduction to CSS - Video 1.6
+Quiz 1.6
+HTML Lists and Forms - Video 1.7
+Quiz 1.7
+HTML links, images, and tables - Video 1.8
+Quiz 1.8
+Responsive Web Design with Bootstrap - Video 1.9
+Quiz 1.9
+    13 Homework 1 - HTML
+Homework  This content is graded
+Homework 1 - HTML
+    14 Discussion
+Discussion
+
+        Professional Certificate - Verification Reminder
+    Professional Certificate - Verification Reminder
+Verify now!
+
+        Week 2 Using JavaScript to Create Dynamic, Data-Driven Web Pages
+    21 JavaScript Basics
+Quiz  This content is graded
+Introduction to Week 2
+Introduction to JavaScript - Video 2.1
+JavaScript variables - Video 2.2
+Quiz 2.1
+JavaScript arrays and objects - Video 2.3
+Quiz 2.2
+JavaScript control structures - Video 2.4
+Quiz 2.3
+JavaScript functions - Video 2.5
+Quiz 2.4
+JavaScript regular expressions - Video 2.6
+Quiz 2.5
+    22 Homework 2 - JavaScript
+Homework  This content is graded
+Homework 2 - JavaScript
+    23 Using JavaScript in Web Pages
+Quiz  This content is graded
+Introduction to the DOM - Video 2.7
+Quiz 2.6
+DOM events - Video 2.8
+Quiz 2.7
+Introduction to jQuery - Video 2.9
+Quiz 2.8
+jQuery event handling - Video 2.10
+Quiz 2.9
+jQuery event handling - Video 2.11
+Quiz 2.10
+    24 Homework 3 - jQuery
+Homework  This content is graded
+Homework 3 - jQuery
+    25 Discussion
+Discussion
+
+        Week 3 Client-Side Frameworks for Developing Modular Web Page Components
+    Developing Web Applications with React
+Quiz  This content is graded
+Introduction to Week 3
+Introduction to React - Video 3.1
+Quiz 3.1
+React components - Video 3.2
+Quiz 3.2
+React events - Video 3.3
+Quiz 3.3
+    Homework 4 - React
+Homework  This content is graded
+Homework 4 - React
+    Advanced Component Design for React
+Quiz  This content is graded
+React component interaction - Video 3.4
+Quiz 3.4
+React component interaction - Video 3.5
+Using APIs with React - Video 3.6
+Quiz 3.6
+React application development - Video 3.7
+Quiz 3.7
+    Homework 5 - React
+Homework  This content is graded
+Using Codio for Homework 5 - Video 3.7a
+Homework 5 - React
+    Creating Data-Driven Web Content with D3.js
+Quiz  This content is graded
+Introduction to ES6 - Video 3.8
+Quiz 3.8
+Introduction to D3.js - Video 3.9
+Quiz 3.9
+Creating charts with D3 - Video 3.10
+Quiz 3.10
+Using data with D3 - Video 3.11
+Quiz 3.11
+    Discussion
+Discussion
+
+        Week 4 Building Scalable Web Apps with Server-Side JavaScript
+    Developing Web Applications with Node.js
+Quiz  This content is graded
+Introduction to Week 4
+Introduction to Node.js - Video 4.1
+Quiz 4.1
+Node requests and responses - Video 4.2
+Quiz 4.2
+Node routing and middleware - Video 4.3
+Quiz 4.3
+Sending user data to Node - Video 4.4
+Quiz 4.4
+Using EJS with Node - Video 4.5
+Quiz 4.5
+    Databases and Web Applications
+Quiz  This content is graded
+Introduction to MongoDB - Video 4.6
+Quiz 4.6
+Querying data in MongoDB - Video 4.7
+Quiz 4.7
+Advanced MongoDB queries - Video 4.8
+Quiz 4.8
+Developing an API with Node and MongoDB - Video 4.9
+    Homework 6 - Node
+Homework  This content is graded
+Using Codio for Homework 6 - Video 4.10
+Homework 6 - Node
+    Discussion
+Discussion
+
+        Final Survey
+    Survey
+Final Survey
+
+Course Tools
+ Bookmarks
+ Updates
+ Upgrade to Verified
+Important Course Dates
+Today is Dec 12, 2018 1037 AWST
+Course End
+in 2 years - Oct 1, 2020
+
+After this date, course content will be archived.
+Course Handouts
+SD4x Course Syllabus
+
