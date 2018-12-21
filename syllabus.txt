@@ -84,7 +84,7 @@ Homework 3 - jQuery
 Discussion
 
         Week 3 Client-Side Frameworks for Developing Modular Web Page Components
-    Developing Web Applications with React
+    31 Developing Web Applications with React
 Quiz  This content is graded
 Introduction to Week 3
 Introduction to React - Video 3.1
@@ -93,10 +93,10 @@ React components - Video 3.2
 Quiz 3.2
 React events - Video 3.3
 Quiz 3.3
-    Homework 4 - React
+    32 Homework 4 - React
 Homework  This content is graded
 Homework 4 - React
-    Advanced Component Design for React
+    33 Advanced Component Design for React
 Quiz  This content is graded
 React component interaction - Video 3.4
 Quiz 3.4
